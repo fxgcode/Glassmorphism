@@ -1,0 +1,15 @@
+{
+  "name": "glass-profile-card",
+  "version": "1.0.0",
+  "description": "Tarjeta de perfil con efecto Glassmorphism (HTML, CSS, JS, Node.js + Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
